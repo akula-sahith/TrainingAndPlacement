@@ -1,0 +1,9 @@
+Notes for Data structures and Algorithms
+
+Time Complexity :-
+
+
+Space Complexity :-
+The extra space that is used which is not given in the question is called auxiliary space
+
+
